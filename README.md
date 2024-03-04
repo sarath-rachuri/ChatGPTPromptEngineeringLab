@@ -1,1 +1,1 @@
-# ChatGPTPromptEngineeringLab
+# ChatGptPromptEngineeringLab
